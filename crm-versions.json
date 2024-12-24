@@ -1,4 +1,12 @@
 {
     "crm-core": "2.0.0",
-    "crm-radialmenu": "2.0.1"
+    "crm-multicharacter": "2.0.0",
+    "crm-loadingscreen": "2.0.0",
+    "crm-pausemenu": "2.0.0",
+    "crm-radialmenu": "2.0.0",
+    "crm-appearance": "2.0.0",
+    "crm-tattoos": "2.0.0",
+    "crm-hud": "2.0.0",
+    "crm-scoreboard": "2.0.0",
+    "crm-banking": "1.0.0"
 }
