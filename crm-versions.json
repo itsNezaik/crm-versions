@@ -8,5 +8,7 @@
     "crm-tattoos": "2.0.0",
     "crm-hud": "2.0.0",
     "crm-scoreboard": "2.0.0",
-    "crm-banking": "1.0.0"
+    "crm-banking": "1.0.0",
+    "crm-target": "1.0.0",
+    "crm-shopscreator": "1.0.0"
 }
