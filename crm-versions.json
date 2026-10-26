@@ -1,6 +1,6 @@
 {
     "crm-core": "2.5.2",
-    "crm-multicharacter": "3.0.0",
+    "crm-multicharacter": "3.0.1",
     "crm-pausemenu": "2.5.1",
     "crm-scoreboard": "3.0.0",
     "crm-appearance": "2.5.0",
@@ -10,7 +10,7 @@
     "crm-loadingscreen": "3.0.1",
     "crm-banking": "2.5.2",
     "crm-target": "2.5.0",
-    "crm-shopscreator": "2.5.0",
+    "crm-shopscreator": "2.5.1",
     "crm-billing": "2.5.1",
     "crm-craftingcreator": "1.0.1",
     "crm-pawncreator": "1.0.0",
